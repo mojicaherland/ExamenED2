@@ -13,6 +13,6 @@ public class Main {
         arbol.insertar(48);
         arbol.recInOrden();
         System.out.println();
-        System.out.println(arbol.cantidadTerm());
+        System.out.println(arbol.sumaElementosTerminales());
     }
 }
